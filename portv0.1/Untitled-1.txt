@@ -1,0 +1,302 @@
+="navbar  bg sticky-md-top sticky-lg-top sticky-sm-top">
+  <div class="container-fluid">
+    <a class="navbar-brand display-4 fw-bold fs-1 brand1 " href="#"><span class="c fw-bold">.</span >  <span class="dot fw-bold">Portfolio</span> <span class="v"></span> </a>
+
+  </div>
+</nav>
+
+<!--The first container that says hello in portifollio-->
+
+<div class="container-fluid  col-12 cont">
+  <div class="hello">
+    <h1 class="hello display-3 fw-bold ">Welcome there</h1>
+  </div>
+  <!--This div for My name--> 
+  <div class=" my_name">
+    <h1 class="Name display-3 fw-bold fs-2"><span class="dot1">. It's</span>  <span class="saif">Saif </span>  <br> <span class="moh">Mohamed</span> </h1>
+  </div>
+  <!--This div is for the introduction-->
+  <div class="the_text">
+    
+    <h1 class="text fs-3"> <span class="dot2">.</span> Front-end web devoloper student  in <br><span class="dot1 fs-3 text t3">WE Applied <h1 class="text t3">
+       <span class="dot1 fs-3">technology schools</span></h1>  </span> <h1 class="dot ">.</h1> <h4 class="t2 fs-3">Student in <span class="dot5">Grade 11</span> <br> Programming department </h1></h1>
+
+   <!--The image of Me ^_^-->
+   <div class="_image">
+    <img class="_image2" src="FB_IMG_1703833475917.jpg" width="350px" height="350px">
+  </div>
+
+ 
+  </div>
+</div>
+<hr>
+<br>
+
+<!--The container of the cards-->
+<center><span id="wht" class="dot  fw-bold fs-1">What am I good at ?</span></center>
+<div class="container-fluid  g-4 cont col-12">
+<center>
+<br>
+<!--Cards container-->
+<!--Card1-->
+<div class="row ">
+<div class="card c1 m-2 col-3">
+  <div class="card-img">
+    <svg id="b2" class="w-6 boots h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+      <path d="M.906 0 2.5 17.683l7.5 2.159 7.544-2.158L19.092 0H.906ZM15.1 6H7.044l.174 2h7.776l-.632 6.513-4.29 1.371-4.326-1.444-.29-2.909H7.5l.163 1.4 2.424.809 2.37-.757.3-2.982H5.368L4.8 4h10.519L15.1 6Z"/>
+    </svg>
+
+  </div>
+  <hr>
+  <center><div class="card-title fs-2 dot fw-bold">HTML</div></center>
+  <center><div class="card-text ct fs-4">good experience at HTML</div></center>
+</div>
+
+<!--Card2-->
+<div class="card c1 m-2  col-3">
+  <div class="card-img">
+    <svg id="b3" class="w-6 boots h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+      <path d="M.906 0 2.5 17.781l7.5 2.16 7.544-2.159L19.091 0H.906Zm13.437 14.679-4.337 1.2h-.009l-4.341-1.2-.3-3.158h2.13l.151 1.521 2.36.637 2.363-.638.248-3.041H5.264l-.19-2h7.718l.177-2H4.87l-.177-2h10.614l-.964 10.679Z"/>
+    </svg>
+ 
+  </div>
+  <hr>
+  <div class="card-title fs-2 dot fw-bold"><center> CSS</center></div>  
+ 
+  <div class="card-text ct fs-4"><center> MID-lvl in CSS</center> </div>
+ 
+ </div>
+
+<!--Card3-->
+
+
+
+<div class="card c1 m-2  col-3">
+ <div class="card-img">
+   <svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" class="bi boots bi-bootstrap" viewBox="0 0 16 16"> <path d="M5.062 12h3.475c1.804 0 2.888-.908 2.888-2.396 0-1.102-.761-1.916-1.904-2.034v-.1c.832-.14 1.482-.93 1.482-1.816 0-1.3-.955-2.11-2.542-2.11H5.062zm1.313-4.875V4.658h1.78c.973 0 1.542.457 1.542 1.237 0 .802-.604 1.23-1.764 1.23zm0 3.762V8.162h1.822c1.236 0 1.887.463 1.887 1.348 0 .896-.627 1.377-1.811 1.377H6.375z"/> <path d="M0 4a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4zm4-3a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V4a3 3 0 0 0-3-3z"/> </svg>
+
+ </div>
+ <hr>
+ <div class="card-title fs-2 dot fw-bold"><center> bootstrap</center></div>  
+
+ <div class="card-text ct fs-4"><center> Good Using bootstrap v5</center> </div>
+
+</div>
+</div>
+ <!--card4-->
+ <div class="row">
+ <div class="card c1 m-2  col-3">
+  <div class="card-img">
+    <svg xmlns="http://www.w3.org/2000/svg" class="boots" x="0px" y="0px" width="50" height="50" viewBox="0 0 50 50"
+    style="fill:#ff8c00;">
+        <path d="M45.274,2.325C45.084,2.118,44.817,2,44.536,2H5.464C5.183,2,4.916,2.118,4.726,2.325S4.443,2.81,4.468,3.089l3.52,39.427 c0.037,0.412,0.324,0.759,0.722,0.873l16.01,4.573C24.809,47.987,24.902,48,24.994,48s0.185-0.013,0.274-0.038l16.024-4.573 c0.398-0.114,0.685-0.461,0.722-0.873l3.518-39.427C45.557,2.81,45.463,2.532,45.274,2.325z M12,29.004l7,1.942V11h4v26l-11-3.051 V29.004z M38.054,22L37,34.25L27,37v-4.601l6.75-1.855l0.25-3.75L27,28V11h12l-0.345,4H31v8L38.054,22z"></path>
+    </svg>
+ 
+  </div>
+  <hr>
+  <div class="card-title fs-2 dot fw-bold"><center>JavaScript</center></div>  
+ 
+  <div class="card-text ct fs-4"><center>Basics in JS</center> </div>
+ 
+ </div> 
+
+
+  <!--card5-->
+  <div class="card c1 m-2  col-3">
+    <div class="card-img">
+      <svg id="b1" class="boots" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 50 50"
+style="fill:#FD7E14;">
+<path d="M 24.96875 1.984375 C 24.953125 1.988281 24.941406 1.988281 24.933594 1.988281 C 24.917969 1.988281 24.902344 1.992188 24.886719 1.992188 C 24.867188 1.996094 24.847656 2 24.828125 2 C 24.8125 2.003906 24.792969 2.007813 24.777344 2.011719 C 24.773438 2.011719 24.765625 2.015625 24.761719 2.015625 C 24.734375 2.023438 24.707031 2.03125 24.679688 2.039063 C 24.671875 2.042969 24.664063 2.042969 24.65625 2.046875 C 24.636719 2.054688 24.617188 2.0625 24.59375 2.070313 C 24.582031 2.078125 24.570313 2.082031 24.558594 2.089844 C 24.535156 2.101563 24.515625 2.109375 24.496094 2.125 C 24.492188 2.125 24.492188 2.125 24.492188 2.125 C 24.492188 2.125 24.492188 2.125 24.488281 2.125 C 24.292969 2.242188 24.140625 2.425781 24.0625 2.640625 L 6.769531 34.625 C 6.769531 34.628906 6.769531 34.628906 6.765625 34.628906 C 6.746094 34.664063 6.726563 34.699219 6.710938 34.734375 L 4.226563 39.328125 C 3.902344 39.707031 3.90625 40.265625 4.234375 40.640625 L 9.132813 46.519531 C 9.328125 46.867188 9.707031 47.066406 10.105469 47.027344 L 16.859375 47.988281 C 17.390625 48.066406 17.886719 47.707031 17.984375 47.179688 L 19.109375 41 L 30.890625 41 L 32.015625 47.179688 C 32.113281 47.707031 32.609375 48.066406 33.140625 47.988281 L 39.949219 47.015625 C 40.328125 47.039063 40.683594 46.84375 40.875 46.515625 L 45.765625 40.640625 C 45.773438 40.632813 45.777344 40.628906 45.78125 40.621094 C 46.097656 40.246094 46.09375 39.699219 45.773438 39.328125 L 36.792969 22.714844 C 36.757813 22.625 36.714844 22.542969 36.65625 22.46875 L 25.9375 2.632813 C 25.824219 2.335938 25.578125 2.109375 25.269531 2.023438 C 25.269531 2.023438 25.265625 2.023438 25.265625 2.023438 C 25.203125 2.003906 25.136719 1.992188 25.074219 1.988281 C 25.070313 1.988281 25.070313 1.988281 25.066406 1.988281 C 25.035156 1.984375 25 1.984375 24.96875 1.984375 Z M 25 8.59375 L 28.042969 25.324219 L 21.445313 28.148438 Z M 27.109375 9 L 34.449219 22.578125 L 29.929688 24.515625 Z M 22.890625 9.003906 L 19.238281 29.09375 L 9.859375 33.113281 Z M 35.402344 24.34375 L 43.324219 39 L 39.15625 39 C 39.109375 38.992188 39.0625 38.988281 39.015625 38.984375 C 38.957031 38.984375 38.894531 38.988281 38.835938 39 L 32.5625 39 L 30.296875 26.53125 Z M 28.40625 27.34375 L 30.527344 39 L 19.46875 39 L 21.015625 30.511719 Z M 18.808594 31.457031 L 17.4375 39 L 10.421875 39 L 10.101563 35.1875 Z M 8.179688 36.214844 L 8.414063 39 L 6.675781 39 Z M 7.132813 41 L 8.578125 41 L 8.742188 42.925781 Z M 10.585938 41 L 17.074219 41 L 16.1875 45.875 L 10.929688 45.125 Z M 32.925781 41 L 38.152344 41 L 38.84375 45.15625 L 33.8125 45.875 Z M 40.179688 41 L 42.863281 41 L 40.625 43.6875 Z"></path>
+</svg>
+   
+    </div>
+    <hr>
+    <div class="card-title fs-2 dot fw-bold"><center>Autocad</center></div>  
+   
+    <div class="card-text ct fs-4"><center>Amauter in Autocad</center> </div>
+   
+   </div>
+   <div class="card c1 m-2  col-3">
+    <div class="card-img">
+      <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50"
+style="fill:#FD7E14;">
+<path d="M 24.5 2 C 15.800781 2 14 6.492188 14 9.09375 L 14 14 L 24 14 L 24 15 L 9.09375 15 C 5.792969 15 2 17.601563 2 25 C 2 32.398438 5.792969 35 9.09375 35 L 15 35 L 15 29 C 15 26.800781 16.800781 25 19 25 L 31 25 C 32.699219 25 34 23.699219 34 22 L 34 9.09375 C 34 5.59375 30.699219 2 24.5 2 Z M 20 7 C 21.101563 7 22 7.898438 22 9 C 22 10.101563 21.101563 11 20 11 C 18.898438 11 18 10.101563 18 9 C 18 7.898438 18.898438 7 20 7 Z M 35 15 L 35 22 C 35 24.199219 33.199219 26 31 26 L 19 26 C 17.300781 26 16 27.300781 16 29 L 16 40.90625 C 16 44.40625 19.300781 48 25.5 48 C 34.199219 48 36 43.507813 36 40.90625 L 36 36 L 26 36 L 26 35 L 40.90625 35 C 44.207031 35 48 32.398438 48 25 C 48 17.601563 44.207031 15 40.90625 15 Z M 30 39 C 31.101563 39 32 39.898438 32 41 C 32 42.101563 31.101563 43 30 43 C 28.898438 43 28 42.101563 28 41 C 28 39.898438 28.898438 39 30 39 Z"></path>
+</svg>
+   
+    </div>
+    <hr>
+    <div class="card-title fs-2 dot fw-bold"><center>Python</center></div>  
+   
+    <div class="card-text ct fs-4"><center>Beginner in Python</center> </div>
+   
+   </div>
+
+   <div id="micro" class="card c12 c1  m-2   col-3">
+    <div class="card-img">
+      <svg class="boots" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50"
+style="fill:#ff8c00;">
+<path d="M43 11.11v27.6c0 2.54-1.73 4.77-4.21 5.43l-8.63 2.41c.5-.94.78-2.02.78-3.16V5.65c0-.86-.19-1.68-.53-2.42l8.45 2.47C41.29 6.37 43 8.6 43 11.11zM28.94 37v6.39c0 1.99-1.19 3.72-2.96 4.33-.43.1-.87.15-1.31.15-1 0-2-.26-2.92-.76L13.45 42c-1.04-.64-1.52-1.86-1.19-3.04.33-1.17 1.38-1.96 2.6-1.96H28.94zM28.94 5.65v5.72l-10.28 3.64c-.99.36-1.66 1.3-1.66 2.36v13.36c0 1.09-.59 2.1-1.54 2.62l-4.07 2.27C10.94 35.88 10.44 36 9.95 36c-.51 0-1.03-.14-1.49-.41C7.54 35.05 7 34.1 7 33.05V14.83c0-1.93 1.04-3.72 2.72-4.68L22.8 2.71c1.08-.61 2.28-.83 3.45-.65.07.06.16.11.26.14C27.72 2.6 28.94 3.82 28.94 5.65z"></path>
+</svg>
+   
+    </div>
+    <hr>
+    <div class="card-title fs-2 dot fw-bold"><center>Microsoft <br>Office</center></div>  
+   
+    <div class="card-text ct fs-4"><center>professinal in Using Office</center> </div>
+   
+   </div>
+
+  
+</div>
+  </div>
+  <!--Card6-->
+
+
+  
+  </center>
+<br><br>
+<hr>
+
+
+<!--THe skills i have-->
+
+
+
+<div class="cont2444">
+
+<center><H1 class="dot fw-bold fs-1 ">Skills That I have</H1></center><br>
+<center>
+  
+  <div class="accordion col-9 ac1" id="accordionFlushExample">
+  <div class="accordion-item ac1 ">
+    <h2 class="accordion-header ac1 ">
+      <button class="accordion-button ac2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        <h1 class="dot fw-bold fs-2">Soft Skills</h1>
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse ac1 collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body acb ">
+        <ul class="list-group">
+          <li class="list-group-item li dot fs-5">Leadership skills</li>
+          <li class="list-group-item li2 dot fs-5">Teamwork</li>
+          <li class="list-group-item li3 dot fs-5">Presentation skills</li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!--Accordion 2-->
+  <div class="accordion-item ac1 ">
+    <h2 class="accordion-header ac1 ">
+      <button class="accordion-button ac2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        <h1 class="dot fw-bold fs-2">Languages</h1>
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse ac1 collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body acb ">
+        <ul class="list-group">
+          <li class="list-group-item li dot fs-5">Native Arabic</li>
+          <li class="list-group-item li2 dot fs-5">Level two In English</li>
+          <li class="list-group-item li3 dot fs-5">Beginner in German </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></center>
+</div>
+<br><br>
+
+
+<hr>
+<br>
+
+
+<center>
+    <h1 class="dot fw-bold fs-1">My Projects</h1>
+  </center>
+  <!--The slideshow for my Projects-->
+  <div id="carouselExample" class="carousel slide m-3">
+    <div class="carousel-inner">
+      <div class="carousel-item active item22 ">
+        
+            <div class="card card1 c1 m-2 col-3">
+                
+                <img class="card-img-top" src="pharm1.png" alt="">
+              
+            
+                <hr>
+                <center><div class="card-title fs-2 dot fw-bold">Pharmacy Website</div></center>
+                <hr>
+                <center></center>
+              </div>
+      
+      </div>
+      <div class="carousel-item item22">
+       
+            <div class="card card1 c1 m-2 col-3">
+                
+                <img class="card-img-top" src="fsp.png" alt="">
+              
+            
+                <hr>
+                <center><div class="card-title fs-2 dot fw-bold">My first website</div></center>
+                <hr>
+                <center></center>
+              </div>
+              </div>
+
+
+
+     
+
+       
+           
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon " aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+  <!--End of the slide show-->
+
+
+<br><br>
+<!--The Footer-->
+  
+<footer class="foot ">
+    <ul>
+      <span class="c fw-bold">.</span>  <span class="dot fw-bold">Portfolio</span> <span class="v"></span>
+     
+    </ul>
+  
+    <ul class="cco">
+      <h1 class="dot fw-bold fs-2">For Contact</h1>
+      <li><svg class="phone" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="50" viewBox="0 0 50 50" style="fill:#ff8c00;">
+        <path d="M 14 3.9902344 C 8.4886661 3.9902344 4 8.4789008 4 13.990234 L 4 35.990234 C 4 41.501568 8.4886661 45.990234 14 45.990234 L 36 45.990234 C 41.511334 45.990234 46 41.501568 46 35.990234 L 46 13.990234 C 46 8.4789008 41.511334 3.9902344 36 3.9902344 L 14 3.9902344 z M 18.005859 12.033203 C 18.633859 12.060203 19.210594 12.414031 19.558594 12.957031 C 19.954594 13.575031 20.569141 14.534156 21.369141 15.785156 C 22.099141 16.926156 22.150047 18.399844 21.498047 19.589844 L 20.033203 21.673828 C 19.637203 22.237828 19.558219 22.959703 19.824219 23.595703 C 20.238219 24.585703 21.040797 26.107203 22.466797 27.533203 C 23.892797 28.959203 25.414297 29.761781 26.404297 30.175781 C 27.040297 30.441781 27.762172 30.362797 28.326172 29.966797 L 30.410156 28.501953 C 31.600156 27.849953 33.073844 27.901859 34.214844 28.630859 C 35.465844 29.430859 36.424969 30.045406 37.042969 30.441406 C 37.585969 30.789406 37.939797 31.366141 37.966797 31.994141 C 38.120797 35.558141 35.359641 37.001953 34.556641 37.001953 C 34.000641 37.001953 27.316344 37.761656 19.777344 30.222656 C 12.238344 22.683656 12.998047 15.999359 12.998047 15.443359 C 12.998047 14.640359 14.441859 11.879203 18.005859 12.033203 z"></path>
+        </svg> <p class="c0">+20 106 1933 984</p> </li>
+  
+        <li>
+          <a href="https://www.linkedin.com/in/saif-mohamed-9b833b269?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app" target="_blank"><svg class="phone" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 50 50" style="fill:#ff8c00;">
+                <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M17,20v19h-6V20H17z M11,14.47c0-1.4,1.2-2.47,3-2.47s2.93,1.07,3,2.47c0,1.4-1.12,2.53-3,2.53C12.2,17,11,15.87,11,14.47z M39,39h-6c0,0,0-9.26,0-10 c0-2-1-4-3.5-4.04h-0.08C27,24.96,26,27.02,26,29c0,0.91,0,10,0,10h-6V20h6v2.56c0,0,1.93-2.56,5.81-2.56 c3.97,0,7.19,2.73,7.19,8.26V39z"></path>
+            </svg>
+          </a>
+        <p class="c0">@Saif MohaMed</p></li>
+  
+        <li><a href="https://www.instagram.com/saifmohamed17_?utm_source=ig_web_button_share_sheet&amp;igsh=OGQ5ZDc2ODk2ZA==" target="_blank"><svg class="phone" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 24 24" style="fill:#ff8c00;">
+              <path d="M 8 3 C 5.243 3 3 5.243 3 8 L 3 16 C 3 18.757 5.243 21 8 21 L 16 21 C 18.757 21 21 18.757 21 16 L 21 8 C 21 5.243 18.757 3 16 3 L 8 3 z M 8 5 L 16 5 C 17.654 5 19 6.346 19 8 L 19 16 C 19 17.654 17.654 19 16 19 L 8 19 C 6.346 19 5 17.654 5 16 L 5 8 C 5 6.346 6.346 5 8 5 z M 17 6 A 1 1 0 0 0 16 7 A 1 1 0 0 0 17 8 A 1 1 0 0 0 18 7 A 1 1 0 0 0 17 6 z M 12 7 C 9.243 7 7 9.243 7 12 C 7 14.757 9.243 17 12 17 C 14.757 17 17 14.757 17 12 C 17 9.243 14.757 7 12 7 z M 12 9 C 13.654 9 15 10.346 15 12 C 15 13.654 13.654 15 12 15 C 10.346 15 9 13.654 9 12 C 9 10.346 10.346 9 12 9 z"></path>
+          </svg></a>
+        <p class="c0">@zaghloljr7__</p></li>
+        <li><a href="https://web.facebook.com/siefeldien.mohamed.3" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" class="phone" width="50" height="50" viewBox="0 0 50 50" style="fill:#ff8c00;">
+              <path d="M25,3C12.85,3,3,12.85,3,25c0,11.03,8.125,20.137,18.712,21.728V30.831h-5.443v-5.783h5.443v-3.848 c0-6.371,3.104-9.168,8.399-9.168c2.536,0,3.877,0.188,4.512,0.274v5.048h-3.612c-2.248,0-3.033,2.131-3.033,4.533v3.161h6.588 l-0.894,5.783h-5.694v15.944C38.716,45.318,47,36.137,47,25C47,12.85,37.15,3,25,3z"></path>
+          </svg></a>
+        <p class="c0">Saif Mohamed</p></li>
+    </ul>
+  
+  </footer>
+
+<script src="bootstrap.bundle.min.js"></script></body>
+</html>
